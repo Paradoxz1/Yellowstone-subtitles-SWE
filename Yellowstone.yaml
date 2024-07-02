@@ -1,0 +1,11 @@
+msubtitles:
+  - source: https://github.com/Paradoxz1/Yellowstone-subtitles-SWE
+    subtitles:
+      - season: 4
+        items:
+          - path: Yellowstone.2018.S04E08.720p.WEB.H264-PECULATE_shifted fixed.srt
+            episode: 8
+          - path: Yellowstone.2018.S04E09.1080p.WEB.H264-PECULATE_shifted fixed.srt
+            episode: 9
+          - path: Yellowstone.2018.S04E10.1080p.WEB.H264-GLHF_shifted fixed.srt
+            episode: 10
